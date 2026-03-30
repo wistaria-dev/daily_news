@@ -1,4 +1,4 @@
 line-bot-sdk
 requests
 beautifulsoup4
-openai
+openaifeedparser
